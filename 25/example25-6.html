@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>HTML5/Flash Video</title>
+  </head>
+  <body>
+    <video width='560' height='320' controls>
+      <object width='560' height='320'
+        type='application/x-shockwave-flash'
+        data='flowplayer.swf'>
+        <param name='movie' value='flowplayer.swf'>
+        <param name='flashvars'
+          value='config={"clip": {
+            "url": "movie.mp4",
+            "autoPlay":false, "autoBuffering":true}}'>
+        </object>
+
+      <source src='movie.mp4'  type='video/mp4'>
+      <source src='movie.webm' type='video/webm'>
+      <source src='movie.ogv'  type='video/ogg'>
+    </video>
+  </body>
+</html>

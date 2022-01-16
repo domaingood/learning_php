@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e97b9831-df4f-4697-9861-75c8bb805098" name="dev.idprivacy.org" url="https://dev.idprivacy.org">
+        <fileTransfer rootFolder="/var/www/idprivacy/data/www/dev.idprivacy.org/" accessType="SFTP" host="dev.idprivacy.org" port="1985" sshConfigId="46c72350-58de-4030-bbaf-19c326a80915" sshConfig="idprivacy@dev.idprivacy.org:1985 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

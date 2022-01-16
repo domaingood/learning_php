@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="dev.idprivacy.org" id="46c72350-58de-4030-bbaf-19c326a80915" port="1985" nameFormat="DESCRIPTIVE" username="idprivacy" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

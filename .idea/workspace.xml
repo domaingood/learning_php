@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="667178fb-ea8d-46cf-ae72-7cd7c9c85fa0" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="667178fb-ea8d-46cf-ae72-7cd7c9c85fa0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/3/example3-1.php" beforeDir="false" afterPath="$PROJECT_DIR$/3/example3-1.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,7 @@
       <workItem from="1641291008914" duration="3173000" />
       <workItem from="1641331354225" duration="5247000" />
       <workItem from="1642240576403" duration="289000" />
-      <workItem from="1642240949769" duration="1932000" />
+      <workItem from="1642240949769" duration="2063000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1640768078040</created>
@@ -110,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641331205563</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Initial commit">
+      <created>1642316391043</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1642316391043</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,9 +137,9 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Commit" />
-    <MESSAGE value="Initial commit" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="Comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comments" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>

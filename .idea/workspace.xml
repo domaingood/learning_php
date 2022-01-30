@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="667178fb-ea8d-46cf-ae72-7cd7c9c85fa0" name="Changes" comment="Initial commit" />
+    <list default="true" id="667178fb-ea8d-46cf-ae72-7cd7c9c85fa0" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +56,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Debugger" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -75,7 +77,8 @@
       <workItem from="1642426103261" duration="596000" />
       <workItem from="1642584895680" duration="145000" />
       <workItem from="1642587189779" duration="1522000" />
-      <workItem from="1642595467960" duration="7139000" />
+      <workItem from="1642595467960" duration="7751000" />
+      <workItem from="1643572298363" duration="222000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1640768078040</created>
@@ -168,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642845576693</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Initial commit">
+      <created>1643199674083</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1643199674083</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
